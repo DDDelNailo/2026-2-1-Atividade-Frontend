@@ -20,15 +20,15 @@
   - [x] Modificar o título e o ícone da aplicação (`/src/app/layout.tsx`)
   - [x] Adicionar link para a página de login
   - [x] Commit com a mensagem "Modificado tela e layout inicial"
-- [ ] 7. Adicionar tela de autenticação
-  - [ ] Criar página `/src/app/auth/page.tsx`)
-  - [ ] Adicionar formulário de autenticação
-  - [ ] Use pelo menos 1 dos hooks de estado (useState, useReducer, useForm, etc)
-  - [ ] Verifique / valide apelido e senha
-  - [ ] Autentique usando o dummyjson (ver documentação em https://dummyjson.com/docs/auth)
-  - [ ] Armazene localmente os dados do usuário
-  - [ ] Redirecione para uma página de dashboard, ainda não criada `/dasboard`
-  - [ ] Commit com a mensagem "Criado o login"
+- [x] 7. Adicionar tela de autenticação
+  - [x] Criar página `/src/app/auth/page.tsx`)
+  - [x] Adicionar formulário de autenticação
+  - [x] Use pelo menos 1 dos hooks de estado (useState, useReducer, useForm, etc)
+  - [x] Verifique / valide apelido e senha
+  - [x] Autentique usando o dummyjson (ver documentação em https://dummyjson.com/docs/auth)
+  - [x] Armazene localmente os dados do usuário
+  - [x] Redirecione para uma página de dashboard, ainda não criada `/dasboard`
+  - [x] Commit com a mensagem "Criado o login"
 - [ ] 8. criar a tela de dashboard
   - [ ] Criar página `/src/app/dashboard/page.tsx`)
   - [ ] Verifique se usuário esta conectado (pode usar middleware.ts)
